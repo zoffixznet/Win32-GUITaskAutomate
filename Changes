@@ -1,0 +1,20 @@
+Revision history for Win32-GUITaskAutomate
+
+0.05  Sun Feb 10  2:06:00 2008
+    - fixed pod error to increase Kwalitee, no code base changes
+
+0.04  Wed Feb 6  17:53:00 2008
+    - fixed the coordinates bug for "drag" functions
+        included "examples/draw.pl"
+
+0.03  Thu Jan 31 17:18:33 2008
+    - added a 'save' and 'restore' robot instructions
+    for saving and restoring mouse cursor position. 
+
+0.02  Wed Jan 30 16:35:45 2008
+    - fixed drag mouse "invalid mouse button" bug
+        and added get_clip() method.
+
+0.01  Thu Jan 17 17:50:45 2008
+        First version, released on an unsuspecting world.
+
